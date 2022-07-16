@@ -1,6 +1,14 @@
-# Sector.Kz
+# sector-kz-layout
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
+
+## First step
+
+Clone or manually download this project in your computer.
+
+## Second step
+
+Run npm install (note, project has [Nebular UIKit](https://akveo.github.io/nebular/), if you have troubles with it, [install Nebular](https://akveo.github.io/nebular/docs/guides/install-nebular#install-nebular)).
 
 ## Development server
 
